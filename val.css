@@ -1,0 +1,148 @@
+.bear-img{
+    width: 100px;
+    height: 90px;
+}
+
+body
+{
+    background-color: #f70776 !important;
+}
+
+.wholebody
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* background-color: #f70776; */
+    
+}
+
+.bottom-div
+{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.outer-div
+{
+    padding-top: 200px;
+}
+
+.question
+{
+    font-size: 30px;
+    color: white;
+}
+
+.img-div
+{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.butt-div
+{
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    padding-top: 30px;
+    align-items: center;
+}
+
+.yes , .no
+{
+    border: none;
+    width: 85px;
+    background-color: white;
+    height: 30px;
+}
+
+.yesupgrade
+{
+    border: none;
+    width: 95px;
+    background-color: white;
+    height: 40px;
+}
+
+.yesupgrade1
+{
+    border: none;
+    width: 125px;
+    background-color: white;
+    height: 50px;
+}
+
+.yesupgrade2
+{
+    border: none;
+    width: 145px;
+    background-color: white;
+    height: 60px;
+}
+
+.yesupgrade3
+{
+    border: none;
+    width: 385px;
+    background-color: white;
+    height: 120px;
+}
+
+
+.nodegrade
+{
+    border: none;
+    width: 65px;
+    background-color: white;
+    height: 27px;
+}
+
+
+.nodegrade1
+{
+    border: none;
+    width: 45px;
+    background-color: white;
+    height: 23px;
+    
+
+}
+
+.nodegrade2
+{
+    border: none;
+    width: 25px;
+    background-color: white;
+    height: 18px;
+    
+}
+
+.last
+{
+    font-size: 10px !important;
+    font-weight: 500;
+    color: lightslategrey;
+    display: flex;
+
+}
+.nodegrade3
+{
+    display: none;
+}
+
+.but-text
+{
+    font-size: large;
+    font-weight: 500;
+    color: lightslategrey;
+}
+
+.oops
+
+{
+    display: none;
+}
+
